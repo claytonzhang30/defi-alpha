@@ -50,3 +50,4 @@ cp .env.example .env  # Add RPC URLs and API keys
 MIT
 <!-- update 1 -->
 <!-- update 2 -->
+<!-- update 3 -->
